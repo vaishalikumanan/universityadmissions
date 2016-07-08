@@ -1,0 +1,6 @@
+LastName	FirstName	Avg	Essay	Clubs	AP	Euclid	Job	Volunteer
+A		A		86 	2 	4	2	yes	no	50
+B		B		96	1	1	4	yes	no	40
+C		C		73	0	0	0	no	yes	89
+D		D		67	5	2	5	yes	no	232
+E		E		52	3	5	4	no	yes	300
